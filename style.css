@@ -1,3 +1,5 @@
 .h1 {
     border-color: aquamarine;
+    width: 100%;
+    height: auto;
 }
